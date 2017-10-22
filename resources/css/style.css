@@ -67,12 +67,15 @@ h2{
     height:  240px;
     width: 877px;
     margin-left: 25%;
+    margin-bottom: 72px;
 }
 
 h3{
     padding-top: 10%;
+    padding-left: 30%;
     color: white;
     font-size: 70pt;
+    width: 350px;
 }
 
 #jewleryImg{
@@ -85,6 +88,10 @@ h3{
 
 #solidPerfumeImg{
     background-image: url("https://trenidislairblog.files.wordpress.com/2017/10/solidperfume.jpg?w=329&h=220");
+}
+
+#solidPerfumeImg h3{
+    padding-top: 5%;
 }
 
 #printsImg{
